@@ -1,9 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background: url("https://picsum.photos/id/1069/1920/1080") no-repeat center
     center fixed;
   background-size: cover;
   background: linear-gradient(to bottom right, #ffc0cb, #8b0000);
   
+}
+
+@media (max-width: 767px) {
+  /* adiciona regra CSS para dispositivos móveis com largura menor que 768px */
+  body {
+    overflow-x: hidden;
+  }
 }
 
 p {
