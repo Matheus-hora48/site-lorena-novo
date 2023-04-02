@@ -8,6 +8,10 @@ consoleText(
     "Seu jeitinho unico de ser carinhosa",
     "O jeito que você me olha",
     "Seu cheirinho",
+    "Seu rosto",
+    "Seu jeito de me apiar em tudo",
+    "Você sempre deixa tudo melhor",
+    "Porque você me completa",
   ],
   "text",
   ["black"]
