@@ -278,3 +278,10 @@ ul.timeline img {
   top: -0.14em;
   left: 10px;
 }
+
+
+.video-container {
+  background-image: url('cnos4.jpeg');
+  background-size: cover;
+  background-position: center;
+}
